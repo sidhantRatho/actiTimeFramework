@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-19T15:38:04 IST" name="Default suite" finished-at="2021-09-19T15:38:41 IST" duration-ms="37465">
+    <groups>
+    </groups>
+    <test started-at="2021-09-19T15:38:04 IST" name="Default test" finished-at="2021-09-19T15:38:41 IST" duration-ms="37465">
+      <class name="com.actitime.testscripts.CreateUserTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.actitime.testscripts.CreateUserTest@1ba9117e]" started-at="2021-09-19T15:38:04 IST" name="launchBrowser" finished-at="2021-09-19T15:38:11 IST" duration-ms="7324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.actitime.testscripts.CreateUserTest@1ba9117e]" started-at="2021-09-19T15:38:11 IST" name="login" finished-at="2021-09-19T15:38:27 IST" duration-ms="15974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="generateUserTest()[pri:0, instance:com.actitime.testscripts.CreateUserTest@1ba9117e]" started-at="2021-09-19T15:38:27 IST" name="generateUserTest" finished-at="2021-09-19T15:38:38 IST" duration-ms="10493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateUserTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.actitime.testscripts.CreateUserTest@1ba9117e]" started-at="2021-09-19T15:38:38 IST" name="logout" finished-at="2021-09-19T15:38:40 IST" duration-ms="2406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.actitime.testscripts.CreateUserTest@1ba9117e]" started-at="2021-09-19T15:38:40 IST" name="closeBrowser" finished-at="2021-09-19T15:38:41 IST" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.actitime.testscripts.CreateUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
